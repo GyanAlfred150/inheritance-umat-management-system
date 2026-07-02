@@ -1,2 +1,5 @@
 # inheritance-umat-management-system
-LAB Exercise on Inheritance
+
+Demonstrates inheritance using Person, Student, and Lecturer classes.
+
+Uses super(), method overriding, and object creation.
